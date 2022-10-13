@@ -17,6 +17,6 @@ To use this software:
 
 ## Link
 
-The following is a link to the GitHub page:
+The following is a link to the video showing the software running:
 
-https://github.com/ConstantMotion1/Module10Challenge
+https://drive.google.com/file/d/1AFwZQxkRWG6pc8XAghMYRyJRroIS0p3D/view
